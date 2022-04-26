@@ -30,7 +30,7 @@ const Orders = () => {
 
   return (
     <>
-      <div class="main">
+      <div class="main main-main">
         <section class="orders" id="orders">
           <div class="container">
             <div class="section-heading">
